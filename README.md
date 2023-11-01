@@ -1,5 +1,3 @@
-![header](./krakow2023.jpg)
-
 [ [Twitter (en)](https://twitter.com/tanishiking25) | [Twitter (ja)](https://twitter.com/tanishiking) | [linkedin](https://www.linkedin.com/in/rikito-taniguchi-8b372b175/) | [blog (ja)](https://tanishiking24.hatenablog.com/) ]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishiking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
